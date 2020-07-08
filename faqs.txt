@@ -1,1 +1,2 @@
-Strings 9:22
+# diffMerge Tool ==> download link
+https://sourcegear.com/diffmerge/downloads.php
